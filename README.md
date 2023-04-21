@@ -1,15 +1,15 @@
-# AI-Grid-Worlds
-This repository has 6 Worksheets that are finished for the AI module in University
+# Grid-Worlds
+This repository has 6 different worlds where each of them needs to solve a task
 
 The order of the solved worksheets is this:
 
-1. Grid_World.py    worksheet1
-2. Grid_World2.py   worksheet2
-3. GridWorld3.py    worksheet3
-4. GraphWorld4.py   worksheet4
-5. GridWorld5.py    worksheet5
-6. GridWorld6.py    worksheet6
+1. Grid_World.py    
+2. Grid_World2.py   
+3. GridWorld3.py    
+4. GraphWorld4.py   
+5. GridWorld5.py    
+6. GridWorld6.py    
 
 All of the files are commented.
 
-There are 6 other documents that has the specification for each of the world created "worksheet", some of those documets would have also the markscheme provided.
+
